@@ -7,8 +7,6 @@ body {
 }
 /*------Grid Container---------*/
 .gridContainer {
-  max-height: 50%;
-  max-width: 50%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -22,6 +20,7 @@ body {
   
   border: gray 1px solid;
 }
+
 
 
 /*---------------Color Display------------*/
